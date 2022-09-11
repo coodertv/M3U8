@@ -27,6 +27,9 @@ https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="TV" tvg-logo="https://i.ibb.co/DRS3sp8/venustv-vtv5-tay-nam-bo.png", VTV5 HD - Tây Nam Bộ
 https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/vtv5tnb@high.m3u8
 
+#EXTINF:-1 tvg-id="backan" group-title="TV" tvg-logo="https://i.ibb.co/7nBfXJm/veiptv-bac-kan-tv-hd.png", Bắc Kạn
+https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="klifehd" group-title="TV" tvg-logo="https://i.ibb.co/fkSdbWW/venustv-kplus-life.png", K+Life HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -43,8 +46,6 @@ https://s8213.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay=1
 #KODIPROP:inputstream.adaptive.license_key=https://apivmx.mytvnet.vn/tv/license/widevine?vmx_device_id=ZmQ1ZDE0NzItNDJjZi0zNTY2LWE5NTgtNDZmNDY2MzQxNDgy
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
-#EXTINF:-1 tvg-id="backan" group-title="TV" tvg-logo="https://i.ibb.co/8rGC0DZ/veiptv-backan.png", Bắc Kạn
-https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" tvg-language="Vietnam" group-title="TV" tvg-logo="https://i.ibb.co/twRySpc/venustv-vinh-long-tv-1.png" catchup="default" catchup-source="https://tshift.fptplay.net/dvr/vinhlong1_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8" catchup-days="3", THVL1 HD
 https://livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="TV" tvg-logo="https://i.ibb.co/wrCwrYn/venustv-vinh-long-tv-2.png" catchup="default" catchup-source="https://tshift.fptplay.net/dvr/vinhlong2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8" catchup-days="3", THVL2 HD
