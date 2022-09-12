@@ -1,4 +1,4 @@
-http://onetv.click/schedule/epg.xml
+
 #EXTM3U url-tvg="http://onetv.click/schedule/epg.xml,http://onetv.click/schedule/epg.xml,http://onetv.click/schedule/epg.xml"m3uautoload="3"
 
 #PLAYLIST:TV 
